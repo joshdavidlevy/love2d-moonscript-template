@@ -1,0 +1,12 @@
+[submodule "modules/moonscript"]
+	path = modules/moonscript
+	url = https://github.com/leafo/moonscript
+[submodule "modules/lpeglj"]
+	path = modules/lpeglj
+	url = https://github.com/sacek/LPegLJ
+[submodule "modules/inspect"]
+	path = modules/inspect
+	url = https://github.com/kikito/inspect.lua
+[submodule "modules/dkjson"]
+	path = modules/dkjson
+	url = https://github.com/LuaDist/dkjson
